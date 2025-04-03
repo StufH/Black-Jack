@@ -37,6 +37,6 @@ def kortvelger():
 
 
 def dealer(deck):
-    print()
+    print("")
 
 # Commit test
